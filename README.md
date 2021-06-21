@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlsonBolson-net
-- 👀 I’m interested in coding something interesting stuff linke themes or plugins for Discord
-- 🌱 I’m currently learning English 😁
+- 👀 I’m interested in coding something interesting stuff like mods for GTA 5
+- 🌱 I’m currently learning English and Lua 😁
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...---!>
 
