@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander
-- 👀 I’m interested in websites and Discord Bots
+- 👀 I’m interested in games, websites and Discord Bots
 - 🌱 I’m currently learning Python 😁
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...---!>
