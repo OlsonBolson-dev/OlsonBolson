@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OlsonBolson-net
-- 👀 I’m interested in coding something interesting stuff like mods for GTA 5
-- 🌱 I’m currently learning English and Lua 😁
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in websites and Discord Bots
+- 🌱 I’m currently learning Python 😁
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...---!>
 
